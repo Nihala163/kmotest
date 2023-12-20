@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604595864391",
+    "project_id": "kmoapplication",
+    "storage_bucket": "kmoapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604595864391:android:d2c1b72b957f1086874262",
+        "android_client_info": {
+          "package_name": "com.example.kmoapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaK3i-RptrAyxXl0moIsHP1cKoWCXOFIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
